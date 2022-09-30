@@ -1,4 +1,4 @@
-#gh-dark-mode-only
+#ffffff
 ![This is an image](https://freesvg.org/img/1540364457.png)
 - 👋 Hi, I’m Brenda Vincent Alukkal
 
