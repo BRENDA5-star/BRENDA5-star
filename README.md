@@ -1,4 +1,11 @@
 - 👋 Hi, I’m Brenda Vincent Alukkal
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
+
+
 - 👀 I’m interested in web development,cyber security and embedded software development
 - 🌱 I’m currently learning Back-End
 - 💞️ I’m looking to collaborate on ..
