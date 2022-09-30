@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Brenda Vincent Alukkal
-
 ![This is an image](https://freesvg.org/img/1540364457.png)
-
-
-
+- 👋 Hi, I’m Brenda Vincent Alukkal
 
 
 - 👀 I’m interested in web development,cyber security and embedded software development
@@ -15,4 +11,4 @@
 - 📫 How to reach me 
 Email Id:brendavincentalukkal@gmail.com
 
-
+@octocat 📖
