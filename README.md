@@ -1,8 +1,5 @@
-
+<h1 align="center">Hi 👋, I'm Brenda Vincent Alukkal</h1>
 ![This is an image](https://freesvg.org/img/1540364457.png)
-
-
- <h1 align="center">Hi 👋, I'm Brenda Vincent Alukkal</h1>
 <h3 align="center">I am a junior Front-end developer from Canada 🍁</h3>
 
 - 🔭 I recently finished working on [My portfolio]
