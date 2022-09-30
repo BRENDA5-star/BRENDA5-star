@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brenda Vincent Alukkal
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://freesvg.org/img/1540364457.png)
 
 
 
