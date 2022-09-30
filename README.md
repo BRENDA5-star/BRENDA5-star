@@ -10,7 +10,7 @@
 -I’m currently learning: Computer Science and Software Engineering.
 -I’m currently open for: An Intern or a new job opportunity
 
-- 👨‍💻 All of my projects are available at [https://github.com/a-hagi613/Projects](https://github.com/a-hagi613/Projects)
+- 👨‍💻 All of my projects are available at []
 
 - 📫 How to reach me: **brendavincentalukkal@gmail.com**
 
