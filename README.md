@@ -5,7 +5,7 @@
  <h1 align="center">Hi 👋, I'm Brenda Vincent Alukkal</h1>
 <h3 align="center">I am a junior Front-end developer from Canada 🍁</h3>
 
-- 🔭 I recently finished working on [My portfolio](https://github.com/a-hagi613/Projects/tree/main/1.%20The%20Crypto%20Sleuth)
+- 🔭 I recently finished working on [My portfolio]
 - 👀 I’m interested in web development,cyber security and embedded software development
 -I’m currently learning: Computer Science and Software Engineering.
 -I’m currently open for: An Intern or a new job opportunity
