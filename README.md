@@ -17,11 +17,12 @@
 
 - 📫 How to reach me: **brendavincentalukkal@gmail.com**
 <h3 align="left">Things I love:</h3>
-- Web development(Front-end)
-- Python
-- Embedded Software development
-- Cyber security
-
+<ul>
+<li>Web development(Front-end)</li>
+<li>Python</li>
+<li>Embedded Software development</li>
+<li>Cyber security</li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 
