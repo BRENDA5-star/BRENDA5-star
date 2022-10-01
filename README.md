@@ -1,3 +1,9 @@
+![Fancy logo](./dark.png#gh-dark-mode-only)
+![Fancy logo](./light.png#gh-light-mode-only)
+
+
+
+
 ![This is an image](https://freesvg.org/img/1540364457.png)
 <h1 align="center">Hi 👋, I'm Brenda Vincent Alukkal</h1>
 
