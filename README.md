@@ -6,7 +6,7 @@
 ![This is an image](https://freesvg.org/img/1540364457.png)
 <h1 align="center">Hi 👋, I'm Brenda Vincent Alukkal</h1>
 
-<h3 align="center">I am a junior👩‍Front-end developer from Canada 🍁</h3>
+<h3 align="center">I am a junior👩‍Front-end developer/cyber security Analyst/Embedded software developer from Canada 🍁</h3>
 
 - 🔭 I recently finished working on [My portfolio]
 - 👀 I’m interested in web development,cyber security and embedded software development
@@ -17,6 +17,10 @@
 
 - 📫 How to reach me: **brendavincentalukkal@gmail.com**
 <h3 align="left">Things I love:</h3>
+- Web development(Front-end)
+- Python
+- Embedded Software development
+- Cyber security
 
 
 <h3 align="left">Languages and Tools:</h3>
