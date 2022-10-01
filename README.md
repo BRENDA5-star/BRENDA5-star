@@ -3,9 +3,9 @@
 
 
 
-![This is an image](https://freesvg.org/img/1540364457.png)
-<h1 align="center">Hi 👋, I'm Brenda Vincent Alukkal</h1>
 
+<h1 align="center">Hi 👋, I'm Brenda Vincent Alukkal</h1>
+<img src="https://freesvg.org/img/1540364457.png"></img>
 <h3 align="center">I am a junior👩‍Front-end developer/cyber security Analyst/Embedded software developer from Canada 🍁</h3>
 
 - 🔭 I recently finished working on [My portfolio]
@@ -13,7 +13,7 @@
 - 🍀I’m currently learning: Computer Science and Software Engineering.
 - 👩‍💼I’m currently open for: An Intern or a new job opportunity
 
-- 👨‍💻 All of my projects are available at []
+- 👨‍💻 All of my projects are available at [https://github.com/BRENDA5-star/BRENDA5-star]
 
 - 📫 How to reach me: **brendavincentalukkal@gmail.com**
 <h3 align="left">Things I love:</h3>
