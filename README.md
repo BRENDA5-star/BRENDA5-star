@@ -4,6 +4,7 @@
 
 
 ![This is an image](https://freesvg.org/img/1540364457.png)
+![Header](./[https://logos.flamingtext.com/Name-Logos/Brenda-design-stripes-name.gif])
 <h1 align="center">Hi 👋, I'm Brenda Vincent Alukkal</h1>
 
 <h3 align="center">I am a junior👩‍Front-end developer/cyber security Analyst/Embedded software developer from Canada 🍁</h3>
