@@ -33,6 +33,24 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img  align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />
+ <img  align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+ <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+ <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+ <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+ <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+ <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+ <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
+   <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+   <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+          
+                          
+          
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
