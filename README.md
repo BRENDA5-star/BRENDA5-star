@@ -10,7 +10,7 @@
 
 - 🔭 I recently finished working on [https://github.com/BRENDA5-star/Portfolio]
 - 👀 I’m interested in web development,cyber security and embedded software development
-- 🍀I’m currently learning: Computer Science and Software Engineering.
+- 🍀I’m currently learning:Back-end web development
 - 👩‍💼I’m currently open for: An Intern or a new job opportunity
 
 - 👨‍💻 All of my projects are available at [https://github.com/BRENDA5-star/BRENDA5-star]
@@ -22,6 +22,8 @@
 <li>Python</li>
 <li>Embedded Software development</li>
 <li>Cyber security</li>
+ <li>Drawing</li>
+<li>Software development</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
